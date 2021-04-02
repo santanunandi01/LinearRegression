@@ -18,4 +18,8 @@ Let us consider, this is an dataset.\
 Now the relation between X and y is\
 <img src="./Images/ymx.PNG" height=65 width=155>\
 Main motive of our model is to find the Intercept(m) and the coefficient(c).\
-If we know the values of c and m, we can predict the output for any random input.
+If we know the values of c and m, we can predict the output for any random inputs. One of the best way to find the coefficient and intercept is Least Square Method.
+#### Least Square Method
+The main equation of Least Square method is:\
+<img src="/Images/m.PNG" height=100 wodth=300>\
+<img src="/Images/c.PNG" height=45 wodth=190>
