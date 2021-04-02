@@ -14,8 +14,8 @@ Linear Regression is the simpliest Machine Learning algorithm.
 5. Height prediction
 ### How Linear Regression works?
 Let us consider, this is an dataset.
-<img src="C:\Users\SANTANU\Desktop\Git\X vs y.png"
-     style="float: left; margin-right: 10px;" />
+![](C:\Users\SANTANU\Desktop\Git\x%20vs%20y.PNG)
+
 
 
 
