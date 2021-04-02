@@ -31,9 +31,9 @@ Let us consider, this is an dataset.
 <img src="./Images/x%20vs%20y.PNG" width=125, height=200>
 </p>
 
-Now the relation between X and y is\
+Now the relation between X and y is
 <p align="center">
-<img src="./Images/ymx.PNG" height=65 width=155>\
+<img src="./Images/ymx.PNG" height=65 width=155>
 </p>
 
 Main motive of our model is to find the Intercept(m) and the coefficient(c).\
