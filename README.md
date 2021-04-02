@@ -17,7 +17,7 @@ Linear Regression is the simpliest Machine Learning algorithm.
 When our output variable is dependent on only one variable then it is called simple linear regression. In the given data set y is only dependent on x, so it is a simple regression.\
 <img src="./Images/xy.PNG" >
 #### Multiple Linear Regression: -
-when our output variable is dependent on two or more independent variables then it is called multiple linear regresssion. In the given data set output z is dependent on x and y.
+when our output variable is dependent on two or more independent variables then it is called multiple linear regresssion. In the given data set output z is dependent on x and y.\
 <img src="./Images/xyz.PNG" >
 ### How Linear Regression works?
 Let us consider, this is an dataset.\
