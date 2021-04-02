@@ -22,4 +22,10 @@ If we know the values of c and m, we can predict the output for any random input
 #### Least Square Method
 The main equation of Least Square method is:\
 <img src="/Images/m.PNG" height=100 wodth=300>\
-<img src="/Images/c.PNG" height=45 wodth=190>
+<img src="/Images/c.PNG" height=45 wodth=190>\
+Our calculation looks like:-\
+<img src="/Images/table1.PNG" height=225 wodth=370>\
+now, \
+<img src="/Images/m1.PNG" height=75 wodth=100>\
+and\
+<img src="/Images/c1.PNG" height=55 wodth=150>\
