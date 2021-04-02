@@ -26,30 +26,45 @@ when our output variable is dependent on two or more independent variables then 
 </p>
 
 ### How Linear Regression works?
-Let us consider, this is an dataset.\
-<img src="./Images/x%20vs%20y.PNG" width=125, height=200>\
+Let us consider, this is an dataset.
+<p align="center">
+<img src="./Images/x%20vs%20y.PNG" width=125, height=200>
+</p>
+
 Now the relation between X and y is\
+<p align="center">
 <img src="./Images/ymx.PNG" height=65 width=155>\
+</p>
+
 Main motive of our model is to find the Intercept(m) and the coefficient(c).\
 If we know the values of c and m, we can predict the output for any random inputs. One of the best way to find the coefficient and intercept is Least Square Method.
 #### Least Square Method
-The main equation of Least Square method is:\
+The main equation of Least Square method is:
 <p align="center">
 <img src="/Images/m.PNG" height=100 wodth=300>
 <br>
 <img src="/Images/c.PNG" height=45 wodth=190>
 </p>
+
 Here x̅ is the mean of all the values of X and ȳ is the mean of all the values in the Y. This is the Least Squares method.\
-Our calculation looks like:-\
-<img src="/Images/table1.PNG" height=225 wodth=370>\
-now, \
-<img src="/Images/m1.PNG" height=75 wodth=100>\
-and,\
-<img src="/Images/c1.PNG" height=55 wodth=150>\
+Our calculation looks like:-
+<p align="center">
+  <img src="/Images/table1.PNG" height=225 wodth=370>
+</p>
+
+now,
+<p align="center">
+  <img src="/Images/m1.PNG" height=75 wodth=100>
+</p>
+
+and,
+<p align="center">
+<img src="/Images/c1.PNG" height=55 wodth=150>
+</p>
+
 so our m=2.0 and c=2.0 which exactly matches with our data set(As m and c for every row is same).\
 Our Linear Regression Model is ready. Now we can predict output with any random input.\
 For the value of x=15, our y will be y=mX + c = 2.0*15 + 2.0 = 32.0\
-
 **Note: -**
 1. The value of intercept and coefficeint is same for every row in out data set. Thats why the value of m and c is exactly same.
 2. The score of our model is 1.0 and efficiency is 100%.
