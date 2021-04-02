@@ -26,7 +26,7 @@ when our output variable is dependent on two or more independent variables then 
 </p>
 
 ### How Linear Regression works?
-Let us consider, this is an dataset.
+Let us consider, this is a dataset.
 <p align="center">
 <img src="./Images/x%20vs%20y.PNG" width=125, height=200>
 </p>
