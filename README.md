@@ -12,6 +12,13 @@ Linear Regression is the simpliest Machine Learning algorithm.
 3. Car price prediction
 4. Advertising cost prediction
 5. Height prediction
+### Types of Linear Regression: -
+#### simple Linear Regression: -
+When our output variable is dependent on only one variable then it is called simple linear regression. In the given data set y is only dependent on x, so it is a simple regression.\
+<img src="./Images/xy.PNG" >
+#### Multiple Linear Regression: -
+when our output variable is dependent on two or more independent variables then it is called multiple linear regresssion. In the given data set output z is dependent on x and y.
+<img src="./Images/xyz.PNG" >
 ### How Linear Regression works?
 Let us consider, this is an dataset.\
 <img src="./Images/x%20vs%20y.PNG" width=125, height=200>\
@@ -28,13 +35,13 @@ Our calculation looks like:-\
 <img src="/Images/table1.PNG" height=225 wodth=370>\
 now, \
 <img src="/Images/m1.PNG" height=75 wodth=100>\
-and\
+and,\
 <img src="/Images/c1.PNG" height=55 wodth=150>\
 so our m=2.0 and c=2.0 which exactly matches with our data set(As m and c for every row is same).\
 Our Linear Regression Model is ready. Now we can predict output with any random input.\
 For the value of x=15, our y will be y=mX + c = 2.0*15 + 2.0 = 32.0\
 
-**Note: -**\
+**Note: -**
 1. The value of intercept and coefficeint is same for every row in out data set. Thats why the value of m and c is exactly same.
 2. The score of our model is 1.0 and efficiency is 100%.
 3. As our score is 1 so there is no error.
