@@ -23,9 +23,13 @@ If we know the values of c and m, we can predict the output for any random input
 The main equation of Least Square method is:\
 <img src="/Images/m.PNG" height=100 wodth=300>\
 <img src="/Images/c.PNG" height=45 wodth=190>\
+Here x̅ is the mean of all the values of X and ȳ is the mean of all the values in the Y. This is the Least Squares method.\
 Our calculation looks like:-\
 <img src="/Images/table1.PNG" height=225 wodth=370>\
 now, \
 <img src="/Images/m1.PNG" height=75 wodth=100>\
 and\
 <img src="/Images/c1.PNG" height=55 wodth=150>\
+so our m=2.0 and c=2.0 which exactly matches with our data set(As m and c for every row is same).\
+Our Linear Regression Model is ready. Now we can predict output with any random input.\
+For the value of x=15 our y will be y=mX + c = 2.0*15 + 2.0 = 32.0
