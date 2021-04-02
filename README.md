@@ -13,9 +13,8 @@ Linear Regression is the simpliest Machine Learning algorithm.
 4. Advertising cost prediction
 5. Height prediction
 ### How Linear Regression works?
-Let us consider, this is an dataset.
-![](C:\Users\SANTANU\Desktop\Git\x%20vs%20y.PNG)
-
+Let us consider, this is an dataset.\
+<img src="./Images/x%20vs%20y.PNG" width=125, height=200>
 
 
 
