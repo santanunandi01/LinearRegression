@@ -16,6 +16,6 @@ Linear Regression is the simpliest Machine Learning algorithm.
 Let us consider, this is an dataset.\
 <img src="./Images/x%20vs%20y.PNG" width=125, height=200>\
 Now the relation between X and y is\
-<img src="./Images/ymx.PNG" width=160, height=80>\
+<img src="./Images/ymx.PNG">
 
 
