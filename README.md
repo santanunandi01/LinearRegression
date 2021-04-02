@@ -20,9 +20,9 @@ When our output variable is dependent on only one variable then it is called sim
 </p>
 
 #### Multiple Linear Regression: -
-when our output variable is dependent on two or more independent variables then it is called multiple linear regresssion. In the given data set output z is dependent on x and y.\
+when our output variable is dependent on two or more independent variables then it is called multiple linear regresssion. In the given data set output z is dependent on x and y.
 <p align="center">
-<img src="./Images/xyz1.PNG" width=82 height=115>
+<img src="./Images/xyz1.PNG" width=100 height=130>
 </p>
 
 ### How Linear Regression works?
