@@ -12,10 +12,10 @@ When our output variable is dependent on only one independent variable then it i
 4. In the next step we create our dependent variable **X** and independent variable **y** using pandas **iloc** method.
 5. Then we plot our data.
 <p align="center">
-<img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/xvsy.png" height=350 width=700>
+<img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/xvsy.png" height=350 width=700><br>
 </p>
 
-    As we can see our plot is almost linear so the error of our model will be very less.
+    
 6.  Now our task is to find the intercept and coefficient. And the formula is
   <p align="center">
   <img src="/Images/m.PNG" height=100 wodth=300>
