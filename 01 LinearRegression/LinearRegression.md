@@ -24,7 +24,7 @@ When our output variable is dependent on only one independent variable then it i
   </p>
 
 
-7..Now to calculate **m** and **c** using Python we use Least Square Method. And the calculation is
+7. Now to calculate **m** and **c** using Python we use Least Square Method. And the calculation is
   <p align="center">
   <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/logic.PNG" height=350 width=600>
   </p>
