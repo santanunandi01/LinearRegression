@@ -33,3 +33,6 @@ When our output variable is dependent on only one independent variable then it i
    <p align="center">
      <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/mandc.PNG" height=200 width=650>
    </p>
+   
+9. Now we can predict values using any random inputs.
+10. 
