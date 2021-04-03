@@ -2,6 +2,10 @@
 ### What is Linear Regression?
 Linear Regression is a statistical or mathematical approach for solving linear equations. A Linear Regression model finds the coefficient and intercepts from given input datas and predict output for any randomly given input.\
 Linear Regression is the simpliest Machine Learning algorithm.
+<p align="center">
+<img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/bestfitting.png" width=800, height=400>
+</p>
+
 ### When should we use Linear Regression?
 1. When our dependent and independent variables are continious.
 2. There needs to be a linear relationship between two variables.
@@ -64,7 +68,9 @@ and,
 
 so our m=2.0 and c=2.0 which exactly matches with our data set(As m and c for every row is same).\
 Our Linear Regression Model is ready. Now we can predict output with any random input.\
-For the value of x=15, our y will be y=mX + c = 2.0*15 + 2.0 = 32.0\
+For the value of x=15, our y will be y=mX + c = 2.0*15 + 2.0 = 32.0
+
+
 **Note: -**
 1. The value of intercept and coefficeint is same for every row in out data set. Thats why the value of m and c is exactly same.
 2. The score of our model is 1.0 and efficiency is 100%.
