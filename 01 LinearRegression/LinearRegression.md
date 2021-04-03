@@ -14,8 +14,7 @@ When our output variable is dependent on only one independent variable then it i
 <p align="center">
 <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/xvsy.png" height=350 width=700>
 </p>
-
-  As we can see our plot is almost linear so the error of our model will be very less.\ 
+  As we can see our plot is almost linear so the error of our model will be very less.
   
 
 6.  Now our task is to find the intercept and coefficient. And the formula is
@@ -25,5 +24,7 @@ When our output variable is dependent on only one independent variable then it i
   <img src="/Images/c.PNG" height=45 wodth=190>
   </p>
 
-7.
-8.
+7.Now to calculate **m** and **c** using Python we use Least Square Method. And the calculation is
+  <p align="center">
+  <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/logic.PNG" height=300 width=500>
+  </p>
