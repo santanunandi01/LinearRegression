@@ -50,6 +50,6 @@ When our output variable is dependent on only one independent variable then it i
 **Note: -**
 1. The data set we have imported is created by me.
 2. The data set is available here.
-   https://www.kaggle.com/santanunandi01/data-for-simple-linear-regression
+   https://www.kaggle.com/santanunandi01/data-for-simple-linear-regression\
 3. All the images used here is also created by me.
 4. If this tutorialis helpful, then follow me @santanunandi01
