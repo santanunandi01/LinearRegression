@@ -35,4 +35,3 @@ When our output variable is dependent on only one independent variable then it i
    </p>
    
 9. Now we can predict values using any random inputs.
-10. 
