@@ -31,7 +31,7 @@ When our output variable is dependent on only one independent variable then it i
 
 8. Now let's check the value of coefficent and intercept of our model.
    <p align="center">
-     <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/mandc.PNG" height=200 width=500>
+     <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/mandc.PNG" height=250 width=600>
    </p>
    
 9. Now,  we can predict values using any random inputs.
@@ -46,3 +46,10 @@ When our output variable is dependent on only one independent variable then it i
     <p align="center">
      <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/score.PNG" height=180 width=450>
     </p>
+
+**Note: -**
+1. The data set we have imported is created by me.
+2. The data set is available here.\
+     https://www.kaggle.com/santanunandi01/data-for-simple-linear-regression
+3. All the images used here is also created by me.
+4. If you like this tutorial, then follow me @santanunandi01
