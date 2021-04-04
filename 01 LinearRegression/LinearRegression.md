@@ -31,7 +31,18 @@ When our output variable is dependent on only one independent variable then it i
 
 8. Now let's check the value of coefficent and intercept of our model.
    <p align="center">
-     <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/mandc.PNG" height=200 width=650>
+     <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/mandc.PNG" height=200 width=500>
    </p>
    
-9. Now we can predict values using any random inputs.
+9. Now,  we can predict values using any random inputs.
+10. Now, let us, calculate the error of our model. The rule for is
+    <p align="center">
+     <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/error.PNG" height=80 width=250>
+    </p>
+    
+    This formula finds the **Mean square error**. If we want to find **Root Mean Square Error**, we need to make root of the error.\
+    Our Root Mean Square Error is 1.3064885238484265.
+11. In the final step let find the score of our model.
+    <p align="center">
+     <img src="https://github.com/santanunandi01/LinearRegression/blob/master/Images/score.PNG" height=180 width=450>
+    </p>
