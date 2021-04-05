@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# Linear Regression
 ### What is simple linear regression?
 When our output variable is dependent on only one independent variable then it is called simple linear regression. In the given data set y is only dependent on x, so it is a simple regression.
 <p align="center">
