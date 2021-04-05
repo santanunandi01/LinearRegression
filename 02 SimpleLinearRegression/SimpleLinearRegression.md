@@ -50,5 +50,5 @@ metrics.mean_squared_error(y, prediction)
 
 ### Note: -
 1. The method used here is inbulit in **sklearn**. So, we do not need to implement the Regression model step by step. If you want to learn the step by step process 
-   <a href= "https://github.com/santanunandi01/LinearRegression/tree/master/01%20LinearRegression" target=balnk>click here</a>
-2. 
+   <a href= "https://github.com/santanunandi01/LinearRegression/tree/master/01%20LinearRegression" target=balnk>click here.</a>
+2. The intercept and coefficient of our data is same for every row, thats why we don't have any error.
